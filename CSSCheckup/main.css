@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+
+.main {
+    background-color: rgb(184, 17, 134);
+}
+
+#number-one{
+    font-size: 22px;
+}
+
+#screenshots-margin{
+    height: 40px;
+    background: blue;
+        border: 5px solid yellow;
+        margin: 5px 10px 20px 0px;
+        padding: 10px 10px 10px 10px
+}
